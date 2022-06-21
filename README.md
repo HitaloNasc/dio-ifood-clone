@@ -1,4 +1,4 @@
-Clone do App Ifood com React Native
+# Clone do App Ifood com React Native
 
 ## Descrição
 Esse projeto foi realizado em participação de bootcamps na Digital Innovation One.
